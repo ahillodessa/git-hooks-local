@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -e
+
+echo Rebasing is not allowed in this repository by $GIT_AUTHOR_NAME
+
+exit 1
