@@ -1,1 +1,1 @@
-# detached-head-tests
+# hooks tests
